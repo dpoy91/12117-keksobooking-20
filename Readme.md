@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Дмитрий Полушкин](https://htmlacademy.ru/profile/dpoy91).
-* Наставник: [Артём Рудов](https://htmlacademy.ru/profile/artrudov).
+* Студент: [Дмитрий Полушкин](https://htmlacademy.ru/profile/dpoy91)
+* Наставник: [Артём Рудов](https://htmlacademy.ru/profile/artrudov)
 
 ---
 
